@@ -1,4 +1,4 @@
- Hi there 👋 my name is Guilherme, i have 19 years old, i like plays everything and do nothin, a go do everything to can helf you, well...i thing you reading this maybe like my profile, call me to we tall :D
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiteixeiras&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiteixeiras&layout=compact&&theme=radical&)](https://github.com/anuraghazra/github-readme-stats)
 
-i learning about: html, css and soo javascript
-
+One guy doing your best 
